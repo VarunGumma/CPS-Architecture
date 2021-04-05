@@ -5,4 +5,4 @@ This code contains a simple Client-Proxy Server-Server architecture. The file `a
 ###### How to run
 Run the `client.py`, `proxy_server.py` and `server.py` in three separate terminals.
 
-**Note:** This architecture can handle files of size atmost 10KB with filename being under 10B. Further, the proxy and server are available at fixed ports 44671 and 44672 respectively. This values are hardcoded, by can be changed upon the interest of the user.
+**Note:** This architecture can handle files of size atmost 10KB with filename being under 10B. Further, the proxy and server are available at fixed ports 44671 and 44672 respectively. This values are hardcoded, but can be changed upon the interest of the user.
